@@ -1,0 +1,25 @@
+Project Overview
+Welcome to my Cricket Data Analysis project repository! This project showcases my passion for both cricket and data analysis. Using SQL, I analyzed a comprehensive dataset containing information on international cricket matches, players, and performances. The goal was to gain valuable insights and reveal exciting patterns from the world of cricket.
+
+Project Structure
+Data: I've imported nine tables into SQL Server, namely odi_batting, odi_bowling, odi_fielding, t20_batting, t20_bowling, t20_fielding, test_batting, test_bowling, and test_fielding. These tables form the backbone of the project.
+
+Cleaning Process: To ensure accurate analysis, I devoted considerable time to clean and preprocess the dataset. I handled missing values, standardized formats, and resolved inconsistencies.
+
+SQL Queries: I've used a variety of SQL commands such as SELECT, JOIN, GROUP BY, and ORDER BY to extract valuable information. The queries focus on key questions such as 
+Who scored the most runs after 2010.
+Which bowler has the maximum dismissals in international cricket.
+Identifying players with an average above 40 in all formats.
+Which batsmen has best 50 to 100 conversion rate in test cricket.
+Which batsmen has scored atleast 35 centuries accross formats.
+Which players have taken atleast 150 wickets and scored atleast 5000 runs in odi cricket.
+Which bowlers have max no. of 10 wicket haul in test cricket.
+
+
+
+Key Findings
+
+There are only 41 players who have achieved a rare feat of scoring a 100 as well as taken a 5 wicket haul in odi cricket.
+There are only 7 players in history wh have scored at least 7000 runs and also taken 150 or more wickets in odi cricket.
+Only 4 players have an average above 40 in all the formats and only Virat kohli has average above 50 in all 3 formats.
+AB De villiers is the only player in the history of ODI cricket who have maintained an average of 50 and SR of 100+ and also scored atleast 5000 runs.
